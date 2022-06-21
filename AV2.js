@@ -3,7 +3,7 @@ let lista= [];
 let quantidadelista=lista.length;
 
 
-for (i=0; i<5;i++){
+for (i=0; i<100;i++){
 
     let idade=rs.question("Qual a sua idade ? ");
   
